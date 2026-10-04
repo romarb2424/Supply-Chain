@@ -1,0 +1,16 @@
+# Power BI
+*.pbit
+*.pbix.bak
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / notebook files
+.vscode/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
